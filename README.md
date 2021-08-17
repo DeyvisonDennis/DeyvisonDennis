@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/DeyvisonDennis">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DeyvisonDennis&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvisonDennis&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeyvisonDennis&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvisonDennis&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Deyvin-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg">
