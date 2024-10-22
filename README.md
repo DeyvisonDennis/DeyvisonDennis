@@ -1,4 +1,4 @@
-## Hello Word! Eu sou o Deyvison e é um prazer ter você aqui
+Olá, eu sou o Deyvison e é um prazer ter você aqui!
 
 - 🔭 Atualmente estou à procura de estágio
 - 🌱 Estudando Java, JavaWeb e SQL
